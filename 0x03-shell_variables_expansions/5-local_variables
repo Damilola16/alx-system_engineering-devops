@@ -1,2 +1,2 @@
-#!/nin/bash
-set | less
+#!/bin/bash
+set
